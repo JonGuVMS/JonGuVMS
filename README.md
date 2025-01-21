@@ -1,14 +1,11 @@
 # Hello, I'm Jon
 <a href="https://www.linkedin.com/in/jonathon-guzman-115a36320/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
-I am seeking a cybersecurity analayst postition to apply my skills in network security and risk managment. I am eager to be part of a team solving cybersecurity dilemmas in a changing digital landscape.
+I am seeking a role in IT and information analayst postitions to apply my skills in network security and risk managment. I am eager to be part of a team solving cybersecurity dilemmas in a ever-changing digital landscape.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My facination with technoglogy has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My background in computer science and philosophy has cultivated a strong analytical mindset and a passion for cybersecurity. I am eager to contribute to an entry-level role where I can strengthen my current knowledge, hone my technical skills, and grow into a top-performing professional in the field.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
